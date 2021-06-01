@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.rootStructure{
+    font-family:cursive;
+}
+#header{
+    background-color: coral;
+    z-index: 1;
+    position: fixed;
+}
+.navigationBar{
+    float: right;
+}
