@@ -12,3 +12,9 @@ body{
 .navigationBar{
     float: right;
 }
+.intro{
+    padding-top: 5em;
+}
+.secondSection{
+    background: rgb(201, 134, 40);
+}
