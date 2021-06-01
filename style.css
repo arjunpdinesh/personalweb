@@ -16,5 +16,11 @@ body{
     padding-top: 5em;
 }
 .secondSection{
-    background:linear-gradient(white,#ffd137,white);
+    background:linear-gradient(white,rgb(250, 221, 104),lightgray);
+}
+#experience{
+    background: linear-gradient(lightgray,white,rgb(171, 238, 144));
+}
+#home{
+    background: linear-gradient(lightgray,white);
 }
