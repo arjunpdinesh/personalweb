@@ -24,3 +24,9 @@ body{
 #home{
     background: linear-gradient(lightgray,white);
 }
+.contactDetails{
+    
+}
+#contact{
+    background: linear-gradient(rgb(171, 238, 144),white,lightgray);
+} 
